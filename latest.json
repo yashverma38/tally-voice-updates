@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "sha256": "3c679ef3b427902157c00478c265ef3a9bf21a3c493b73652853fc03a9872848",
+  "notes": "Scribe and dictation input modes, installer, auto-update",
+  "released": "2026-11-08",
+  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.1.0.zip",
+  "setup": "https://github.com/yashverma38/tally-voice-updates/raw/main/TallyVoiceSetup.exe"
+}
