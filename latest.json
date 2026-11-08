@@ -1,8 +1,8 @@
 {
-  "version": "1.6.1",
-  "sha256": "72f368a6cf1cde67c3fc8408b674099143878c87f9c777f0524a0ec2127d5714",
-  "notes": "Khata tab: grahak ki har entry (journal waghaira bhi)",
+  "version": "1.6.2",
+  "sha256": "c0eb83911efd6c8bf8eec0c05872c49c9711ef0e9b693682f84651a13f564ea8",
+  "notes": "Bill screen compact: bill no, tareekh, mobile, naam, khata ek line mein",
   "released": "2026-11-08",
-  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.6.1.zip",
+  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.6.2.zip",
   "setup": "https://github.com/yashverma38/tally-voice-updates/raw/main/TallyVoiceSetup.exe"
 }
