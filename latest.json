@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "sha256": "140cdd4cdfb7ee9fc29ba4aca7dbe8c3a61d0177a16534150c16b9a0b5f5fe0a",
-  "notes": "Mobile number dalte hi grahak ka khata; Tally mein har item ka vazan, rate, making, tax",
+  "version": "1.5.0",
+  "sha256": "f1a0538ed106fb13416dc6a98315a2b2f0893c052cb90ffb3c0419d67a9a6ccd",
+  "notes": "Tally mein bill item-wise: har item Particulars mein vazan aur rate ke saath",
   "released": "2026-11-08",
-  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.4.0.zip",
+  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.5.0.zip",
   "setup": "https://github.com/yashverma38/tally-voice-updates/raw/main/TallyVoiceSetup.exe"
 }
