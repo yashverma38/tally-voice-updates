@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "sha256": "f1a0538ed106fb13416dc6a98315a2b2f0893c052cb90ffb3c0419d67a9a6ccd",
-  "notes": "Tally mein bill item-wise: har item Particulars mein vazan aur rate ke saath",
+  "version": "1.6.0",
+  "sha256": "4b9b72b21fa283928e9ba7c82d63f0aab748f68d7cf63c74c27b956040171627",
+  "notes": "Naye tab: Khata (naam/number se grahak ke saare bill-rasid Tally se) aur History (is computer ki har entry, Excel download)",
   "released": "2026-11-08",
-  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.5.0.zip",
+  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.6.0.zip",
   "setup": "https://github.com/yashverma38/tally-voice-updates/raw/main/TallyVoiceSetup.exe"
 }
