@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "sha256": "4910ea1fbff72a88cc8a82a875e8310c62f3d0259fb9bd7d8c300002ca981138",
-  "notes": "Cloud se chalta hai (keys ki zarurat nahi), pehli baar parichay screen, setup signing ke liye taiyar",
+  "version": "1.2.1",
+  "sha256": "6005854dbbaa16201bed433d5c1392a1f9a57e3e2fb4c3371a8ee8c1019dbc12",
+  "notes": "Naya Tally Voice cloud DB",
   "released": "2026-11-08",
-  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.2.0.zip",
+  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.2.1.zip",
   "setup": "https://github.com/yashverma38/tally-voice-updates/raw/main/TallyVoiceSetup.exe"
 }
