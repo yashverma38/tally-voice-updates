@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "sha256": "4b9b72b21fa283928e9ba7c82d63f0aab748f68d7cf63c74c27b956040171627",
-  "notes": "Naye tab: Khata (naam/number se grahak ke saare bill-rasid Tally se) aur History (is computer ki har entry, Excel download)",
+  "version": "1.6.1",
+  "sha256": "72f368a6cf1cde67c3fc8408b674099143878c87f9c777f0524a0ec2127d5714",
+  "notes": "Khata tab: grahak ki har entry (journal waghaira bhi)",
   "released": "2026-11-08",
-  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.6.0.zip",
+  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.6.1.zip",
   "setup": "https://github.com/yashverma38/tally-voice-updates/raw/main/TallyVoiceSetup.exe"
 }
