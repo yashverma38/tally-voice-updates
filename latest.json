@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "sha256": "3c679ef3b427902157c00478c265ef3a9bf21a3c493b73652853fc03a9872848",
-  "notes": "Scribe and dictation input modes, installer, auto-update",
+  "version": "1.2.0",
+  "sha256": "4910ea1fbff72a88cc8a82a875e8310c62f3d0259fb9bd7d8c300002ca981138",
+  "notes": "Cloud se chalta hai (keys ki zarurat nahi), pehli baar parichay screen, setup signing ke liye taiyar",
   "released": "2026-11-08",
-  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.1.0.zip",
+  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.2.0.zip",
   "setup": "https://github.com/yashverma38/tally-voice-updates/raw/main/TallyVoiceSetup.exe"
 }
