@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "sha256": "aceeaf109698fdf28270bd99227c23308d7e365c25badb39bac4deaa0ae1de4e",
-  "notes": "Billing screen aasaan: 3 hisse (grahak, item, jama), neeche hamesha total aur button, jo bhar na ho wo peela dikhega",
+  "version": "1.3.1",
+  "sha256": "7dca60136db49f14de8e614b1f1124994d618622fcede3c1ab459d23daae7d9a",
+  "notes": "Item jodne ka naya tareeka: dhatu, carat, item, phir vazan/rate. Jude hue item upar list mein.",
   "released": "2026-11-08",
-  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.3.0.zip",
+  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.3.1.zip",
   "setup": "https://github.com/yashverma38/tally-voice-updates/raw/main/TallyVoiceSetup.exe"
 }
