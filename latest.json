@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "sha256": "6005854dbbaa16201bed433d5c1392a1f9a57e3e2fb4c3371a8ee8c1019dbc12",
-  "notes": "Naya Tally Voice cloud DB",
+  "version": "1.2.2",
+  "sha256": "d7188051de648bf20220bd822d7ecc1bbbf010b3768c0171e181cfe45bd71b75",
+  "notes": "Chhote sudhar: lamba text kat ke bhejna, dukaan ka naam",
   "released": "2026-11-08",
-  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.2.1.zip",
+  "url": "https://raw.githubusercontent.com/yashverma38/tally-voice-updates/main/releases/tally-voice-1.2.2.zip",
   "setup": "https://github.com/yashverma38/tally-voice-updates/raw/main/TallyVoiceSetup.exe"
 }
